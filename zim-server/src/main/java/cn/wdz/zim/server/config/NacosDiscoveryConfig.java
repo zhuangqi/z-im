@@ -12,6 +12,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 /**
+ * Nacos dicovery configuration
  * @author <a href="mailto:jhoncycn@gmail.com">Jhoncy</a>
  * @date 2020/2/4
  */
